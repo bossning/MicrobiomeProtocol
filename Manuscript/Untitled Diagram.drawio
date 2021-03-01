@@ -1,247 +1,240 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T08:51:00.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="vT2VsDg-ExNSW13A8wiM" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T09:13:08.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81" etag="-fW-k0VlEJR8x9AuJ6i3" version="14.4.3" type="github">
   <diagram id="QDtG73jCpwaWWLSm4ETX" name="第 1 页">
-    <mxGraphModel dx="1056" dy="125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WCuqPz3NQp58f8Igei0k-176" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="288.75" width="587" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-175" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="290" width="437" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-174" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="290" width="370" height="467.75" as="geometry" />
+        </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-77" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;fontColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-136" y="510.5" width="127" height="118" as="geometry" />
+          <mxGeometry x="-73" y="510.5" width="127" height="118" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;fontColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="511.5" width="127" height="118" as="geometry" />
+          <mxGeometry x="-262" y="511.5" width="127" height="118" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-588.12" y="397" width="146.24" height="120" as="geometry" />
+          <mxGeometry x="-548.12" y="431" width="146.24" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-11" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;土培&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 21.3333px;&quot;&gt;(人工气候室&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px;&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-579.75" y="404" width="131.25" height="50" as="geometry" />
+          <mxGeometry x="-539.75" y="438" width="131.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-762.87" y="501" width="115" height="90" as="geometry" />
+          <mxGeometry x="-722.87" y="535" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-764" y="398" width="115" height="89" as="geometry" />
+          <mxGeometry x="-724" y="432" width="115" height="89" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-4" value="" style="curved=1;endArrow=classic;html=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;exitX=1.013;exitY=0.449;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="349" y="577.002" as="sourcePoint" />
-            <mxPoint x="369" y="592" as="targetPoint" />
+            <mxPoint x="473" y="578.002" as="sourcePoint" />
+            <mxPoint x="493" y="593" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="577" />
+              <mxPoint x="484" y="578" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.506;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="WCuqPz3NQp58f8Igei0k-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-622.1899999999998" y="323.09000000000003" as="sourcePoint" />
-            <mxPoint x="-598" y="368" as="targetPoint" />
+            <mxPoint x="-582.1899999999998" y="351.09000000000003" as="sourcePoint" />
+            <mxPoint x="-558" y="396" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-615" y="323" />
-              <mxPoint x="-615" y="313" />
-              <mxPoint x="-622" y="313" />
-              <mxPoint x="-622" y="368" />
+              <mxPoint x="-575" y="351" />
+              <mxPoint x="-575" y="341" />
+              <mxPoint x="-582" y="341" />
+              <mxPoint x="-582" y="396" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WCuqPz3NQp58f8Igei0k-5" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;不同&lt;/span&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;种植&lt;/span&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;体系中&lt;/span&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;辣椒&lt;/span&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;根系分泌物&lt;/span&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;变化&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="310" width="385" height="30" as="geometry" />
+        <mxCell id="WCuqPz3NQp58f8Igei0k-5" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;有机/常规种植&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;体系中&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;辣椒&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;根系分泌物组分&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;变化&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-727.24" y="310" width="318.74" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-6" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;土壤理化&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-766.87" y="353" width="120" height="30" as="geometry" />
+          <mxGeometry x="-726.87" y="381" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-8" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font style=&quot;font-size: 21.3333px&quot;&gt;有机种植&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-754.62" y="407" width="100" height="30" as="geometry" />
+          <mxGeometry x="-714.62" y="441" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-9" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font style=&quot;font-size: 21.3333px&quot;&gt;常规种植&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-754.12" y="447" width="100" height="30" as="geometry" />
+          <mxGeometry x="-714.12" y="481" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-10" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;根系分泌物分析&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="353" width="170" height="30" as="geometry" />
+          <mxGeometry x="-560" y="381" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-12" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;无菌水培&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;（抗生素）&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-579.75" y="462" width="131.25" height="50" as="geometry" />
+          <mxGeometry x="-539.75" y="496" width="131.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-13" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;非靶向&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;植物&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;代谢组&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-579.75" y="531" width="131.25" height="50" as="geometry" />
+          <mxGeometry x="-539.75" y="565" width="131.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-14" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;揭示有机种植体系土壤对辣椒根系分泌物组分的调控机理&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="663" width="350" height="60" as="geometry" />
+          <mxGeometry x="-726.87" y="664" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-15" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 13px; text-align: left;&quot;&gt;土壤酸碱度&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-754.12" y="510" width="99.25" height="20" as="geometry" />
+          <mxGeometry x="-714.12" y="544" width="99.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-16" value="&lt;span style=&quot;font-size: 13px; text-align: left;&quot;&gt;土壤营养指标&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-754.87" y="535" width="100" height="20" as="geometry" />
+          <mxGeometry x="-714.87" y="569" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-17" value="&lt;span style=&quot;font-size: 13px; text-align: left;&quot;&gt;土壤有机质&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-754.62" y="561" width="99.75" height="20" as="geometry" />
+          <mxGeometry x="-714.62" y="595" width="99.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-27" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;entryX=1.018;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-612" y="368" as="sourcePoint" />
-            <mxPoint x="-646.7099999999999" y="367.97999999999996" as="targetPoint" />
+            <mxPoint x="-572" y="396" as="sourcePoint" />
+            <mxPoint x="-606.7099999999999" y="395.97999999999996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-632" y="368" />
+              <mxPoint x="-592" y="396" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WCuqPz3NQp58f8Igei0k-46" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="WCuqPz3NQp58f8Igei0k-51" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-515.1899999999998" y="384" as="sourcePoint" />
-            <mxPoint x="-514.8199999999999" y="397" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WCuqPz3NQp58f8Igei0k-51" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-707.0599999999998" y="383" as="sourcePoint" />
-            <mxPoint x="-706.6899999999999" y="396" as="targetPoint" />
+            <mxPoint x="-667.0599999999998" y="411" as="sourcePoint" />
+            <mxPoint x="-667" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-52" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-707.06" y="487" as="sourcePoint" />
-            <mxPoint x="-706.69" y="500" as="targetPoint" />
+            <mxPoint x="-667.06" y="521" as="sourcePoint" />
+            <mxPoint x="-666.69" y="534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-53" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-515.18" y="517" as="sourcePoint" />
-            <mxPoint x="-514.8100000000001" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WCuqPz3NQp58f8Igei0k-56" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;entryX=0.49;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WCuqPz3NQp58f8Igei0k-33" target="WCuqPz3NQp58f8Igei0k-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-680" y="613" as="sourcePoint" />
-            <mxPoint x="-610" y="613" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-705" y="603" />
-              <mxPoint x="-600" y="603" />
-            </Array>
+            <mxPoint x="-475.17999999999995" y="551" as="sourcePoint" />
+            <mxPoint x="-474.81000000000006" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-57" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-514" y="583" as="sourcePoint" />
-            <mxPoint x="-600" y="623" as="targetPoint" />
+            <mxPoint x="-474" y="617" as="sourcePoint" />
+            <mxPoint x="-560" y="657" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-514" y="603" />
-              <mxPoint x="-600" y="603" />
+              <mxPoint x="-474" y="637" />
+              <mxPoint x="-560" y="637" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-58" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;有机种植体系中&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;差异根系分泌物组分对关键拮抗菌&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;的招募作用&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-331" y="309" width="343" height="50" as="geometry" />
+          <mxGeometry x="-268" y="309" width="343" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-59" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;基因组&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;转录&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;组&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt ; font-family: &amp;#34;等线 (正文)&amp;#34;&quot;&gt;Q-PCR&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-321" y="372" width="120" height="80" as="geometry" />
+          <mxGeometry x="-258" y="372" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-60" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;菌株基因表达谱&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-341" y="466" width="160" height="30" as="geometry" />
+          <mxGeometry x="-278" y="466" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-61" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;信号识别&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-314" y="514.5" width="24" height="112" as="geometry" />
+          <mxGeometry x="-251" y="514.5" width="24" height="112" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-62" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;生长&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-273" y="514.5" width="24" height="52" as="geometry" />
+          <mxGeometry x="-210" y="514.5" width="24" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-63" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;运动&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-273" y="574.5" width="24" height="52" as="geometry" />
+          <mxGeometry x="-210" y="574.5" width="24" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-64" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;定殖&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-232" y="514.5" width="24" height="52" as="geometry" />
+          <mxGeometry x="-169" y="514.5" width="24" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-65" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;防病&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-232" y="574.5" width="24" height="52" as="geometry" />
+          <mxGeometry x="-169" y="574.5" width="24" height="52" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-66" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;基因工程&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;量化毛细管&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;和&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;梯度平板&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;趋化性&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-151" y="372" width="153" height="80" as="geometry" />
+          <mxGeometry x="-88" y="372" width="153" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-67" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;菌体行为特征&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-151" y="466" width="153" height="30" as="geometry" />
+          <mxGeometry x="-88" y="466" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-68" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;根&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;系&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;富&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;集&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="513" width="24" height="112" as="geometry" />
+          <mxGeometry x="-65" y="513" width="24" height="112" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-69" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;游动性&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="513.5" width="24" height="112" as="geometry" />
+          <mxGeometry x="-23" y="513.5" width="24" height="112" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-70" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;趋化性&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-41" y="513" width="24" height="112" as="geometry" />
+          <mxGeometry x="22" y="513" width="24" height="112" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;entryX=0.004;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.453;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WCuqPz3NQp58f8Igei0k-58" target="WCuqPz3NQp58f8Igei0k-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-176" y="367" as="sourcePoint" />
-            <mxPoint x="-155" y="412" as="targetPoint" />
+            <mxPoint x="-113" y="367" as="sourcePoint" />
+            <mxPoint x="-92" y="412" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-176" y="412" />
-              <mxPoint x="-150" y="412" />
+              <mxPoint x="-113" y="412" />
+              <mxPoint x="-87" y="412" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-79" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;entryX=1.018;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-166.28999999999996" y="412.02" as="sourcePoint" />
-            <mxPoint x="-201" y="412" as="targetPoint" />
+            <mxPoint x="-103.28999999999996" y="412.02" as="sourcePoint" />
+            <mxPoint x="-138" y="412" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-186.28999999999996" y="412.02" />
+              <mxPoint x="-123.28999999999996" y="412.02" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-81" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-261.17999999999984" y="452" as="sourcePoint" />
-            <mxPoint x="-260.80999999999995" y="465" as="targetPoint" />
+            <mxPoint x="-198.17999999999984" y="452" as="sourcePoint" />
+            <mxPoint x="-197.80999999999995" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-82" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-74.68999999999983" y="452" as="sourcePoint" />
-            <mxPoint x="-74.31999999999971" y="465" as="targetPoint" />
+            <mxPoint x="-11.689999999999827" y="452" as="sourcePoint" />
+            <mxPoint x="-11.319999999999709" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-84" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-261.1899999999998" y="496" as="sourcePoint" />
-            <mxPoint x="-260.8199999999997" y="509" as="targetPoint" />
+            <mxPoint x="-198.18999999999983" y="496" as="sourcePoint" />
+            <mxPoint x="-197.8199999999997" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-85" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-74.68999999999983" y="496.0000000000001" as="sourcePoint" />
-            <mxPoint x="-74.31999999999948" y="509" as="targetPoint" />
+            <mxPoint x="-11.689999999999827" y="496.0000000000001" as="sourcePoint" />
+            <mxPoint x="-11.319999999999482" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-86" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;entryX=0.49;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-267.9966666666665" y="631" as="sourcePoint" />
-            <mxPoint x="-162.57999999999976" y="663" as="targetPoint" />
+            <mxPoint x="-204.9966666666665" y="631" as="sourcePoint" />
+            <mxPoint x="-99.57999999999976" y="663" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-267.58" y="643" />
-              <mxPoint x="-162.57999999999998" y="643" />
+              <mxPoint x="-204.57999999999998" y="643" />
+              <mxPoint x="-99.57999999999998" y="643" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-87" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-77" y="631" as="sourcePoint" />
-            <mxPoint x="-162.57999999999976" y="663" as="targetPoint" />
+            <mxPoint x="-14" y="631" as="sourcePoint" />
+            <mxPoint x="-99.57999999999976" y="663" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-77" y="643" />
-              <mxPoint x="-163" y="643" />
+              <mxPoint x="-14" y="643" />
+              <mxPoint x="-100" y="643" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-88" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;揭示有机&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;体系中&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;差异根系分泌物组分对招募土壤中关键拮抗&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;菌&lt;/span&gt;&lt;span style=&quot;font-size: 16pt ; font-family: &amp;#34;等线 (正文)&amp;#34;&quot;&gt;BM400&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;的作用和机理&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="663" width="420" height="60" as="geometry" />
+          <mxGeometry x="-317" y="663" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-89" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;利用&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;化学&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;纯品&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;模拟&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;差异&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;根系分泌物组分&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;协同&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;关键拮抗菌&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;的抑病机理&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="158.5" y="309" width="343" height="50" as="geometry" />
+          <mxGeometry x="282.5" y="310" width="343" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-91" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;四个处理+三个感病地土壤&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="191.25" y="373" width="277.5" height="25" as="geometry" />
+          <mxGeometry x="315.25" y="374" width="277.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-119" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="244" y="406.5" width="180" height="150" as="geometry" />
+          <mxGeometry x="368" y="407.5" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;fontColor=#000000;dashed=1;" vertex="1" parent="WCuqPz3NQp58f8Igei0k-119">
           <mxGeometry x="-8.5" y="4" width="179.5" height="150" as="geometry" />
@@ -289,75 +282,146 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-120" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt ; font-family: &amp;#34;等线 (正文)&amp;#34;&quot;&gt;16S&lt;/span&gt;&lt;span style=&quot;font-size: 16pt ; font-family: &amp;#34;等线 (正文)&amp;#34;&quot;&gt;rRNA&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;扩增子&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;宏基因组&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="444" width="171" height="58" as="geometry" />
+          <mxGeometry x="173" y="445" width="171" height="58" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-121" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;泛&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;基因组&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt ; font-family: &amp;#34;等线 (正文)&amp;#34;&quot;&gt;Q-PCR&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="443" width="127" height="58" as="geometry" />
+          <mxGeometry x="567" y="444" width="127" height="58" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-122" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;辣椒根际和土壤微生物组多样性及空间&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;分布&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="520" width="160" height="90" as="geometry" />
+          <mxGeometry x="185" y="521" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-123" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;辣椒感病土壤中拮抗细菌多样性及功能基因特征&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="520" width="166" height="90" as="geometry" />
+          <mxGeometry x="548" y="521" width="166" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-125" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;有机土壤&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="289" y="566.5" width="60" height="18" as="geometry" />
+          <mxGeometry x="413" y="567.5" width="60" height="18" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-126" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;差异根系分泌物&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="233" y="593" width="56" height="30" as="geometry" />
+          <mxGeometry x="357" y="594" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-127" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;关键&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;拮抗菌&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="349" y="593" width="56" height="30" as="geometry" />
+          <mxGeometry x="473" y="594" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-132" value="" style="shape=cross;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=center;fillColor=#000000;size=0.2392026578073358;" vertex="1" parent="1">
-          <mxGeometry x="308.5" y="598" width="21" height="20" as="geometry" />
+          <mxGeometry x="432.5" y="599" width="21" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-139" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.81000000000017" y="503" as="sourcePoint" />
-            <mxPoint x="138.1800000000003" y="516" as="targetPoint" />
+            <mxPoint x="261.8100000000002" y="504" as="sourcePoint" />
+            <mxPoint x="262.1800000000003" y="517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-140" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329.50000000000017" y="359" as="sourcePoint" />
-            <mxPoint x="329.8700000000003" y="372" as="targetPoint" />
+            <mxPoint x="453.50000000000017" y="360" as="sourcePoint" />
+            <mxPoint x="453.8700000000003" y="373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-142" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.003;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234.0385000000001" y="473.04999999999995" as="sourcePoint" />
-            <mxPoint x="220" y="473" as="targetPoint" />
+            <mxPoint x="358.0385000000001" y="474.04999999999995" as="sourcePoint" />
+            <mxPoint x="344" y="474" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="473" />
+              <mxPoint x="344" y="474" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-143" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.997;exitY=0.41;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.4615000000001" y="472.0000000000001" as="sourcePoint" />
-            <mxPoint x="440" y="472" as="targetPoint" />
+            <mxPoint x="543.4615000000001" y="473.0000000000001" as="sourcePoint" />
+            <mxPoint x="564" y="473" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-147" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="506.76000000000016" y="504" as="sourcePoint" />
-            <mxPoint x="507.1300000000003" y="517" as="targetPoint" />
+            <mxPoint x="630.7600000000002" y="505" as="sourcePoint" />
+            <mxPoint x="631.1300000000003" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-148" value="" style="curved=1;endArrow=classic;html=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289" y="577" as="sourcePoint" />
-            <mxPoint x="269" y="592" as="targetPoint" />
+            <mxPoint x="413" y="578" as="sourcePoint" />
+            <mxPoint x="393" y="593" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="289" y="577" />
-              <mxPoint x="280" y="577" />
+              <mxPoint x="413" y="578" />
+              <mxPoint x="404" y="578" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-136" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;抗病根际微生物组&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="266" y="640" width="106" height="18" as="geometry" />
+          <mxGeometry x="392" y="637" width="106" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-165" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#EEEEEE;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="574.5" width="11" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-166" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left: 18pt ; text-indent: -18pt ; line-height: 22pt ; font-size: 21px&quot;&gt;&lt;span&gt;揭示差异根系分泌物组分和关键拮抗菌协同构建&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt&quot;&gt;抗病根际微生物组和抑制辣椒疫病的多元化机理&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left: 18pt ; text-indent: -18pt ; line-height: 22pt ; font-size: 21px&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="664" width="469" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-167" value="" style="curved=1;endArrow=classic;html=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;entryX=0.205;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WCuqPz3NQp58f8Igei0k-122" target="WCuqPz3NQp58f8Igei0k-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="302.5" y="637" as="sourcePoint" />
+            <mxPoint x="282.5" y="652" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="264" y="611" />
+              <mxPoint x="274" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-168" value="" style="curved=1;endArrow=classic;html=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;entryX=0.791;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.467;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WCuqPz3NQp58f8Igei0k-123" target="WCuqPz3NQp58f8Igei0k-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="626.5" y="611" as="sourcePoint" />
+            <mxPoint x="666.1450000000002" y="661.5999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625.5" y="611" />
+              <mxPoint x="614" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-169" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;系统解析有机种植体通过调控辣椒根系分泌物的对土壤中关键拮抗菌的影响，并且二者协同构建感病土壤中抗病根际微生物组抵抗辣椒疫病的机理&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#eeeeee;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-656.25" y="834" width="1382.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-170" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;entryX=0.49;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-665.4166666666664" y="625" as="sourcePoint" />
+            <mxPoint x="-559.9999999999997" y="657" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-664.9999999999999" y="637" />
+              <mxPoint x="-559.9999999999999" y="637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-171" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-474.9999999999998" y="411" as="sourcePoint" />
+            <mxPoint x="-474.94000000000005" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-177" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.43;dx=23.81;notch=0;strokeColor=#000000;fillColor=#EEEEEE;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-368" y="500" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-179" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.43;dx=23.81;notch=0;strokeColor=#000000;fillColor=#EEEEEE;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="113" y="500" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-180" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466.07" y="760" as="sourcePoint" />
+            <mxPoint x="36" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="800" />
+              <mxPoint x="36" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-181" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-558.9966666666666" y="757.75" as="sourcePoint" />
+            <mxPoint x="36" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-559" y="800" />
+              <mxPoint x="36" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
