@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T02:54:40.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="6bqgnKSh2o0SsYPxVLBa" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T05:32:01.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="ag4mYqvzk1ksTE1QrYF5" version="14.5.1" type="github">
   <diagram id="QDtG73jCpwaWWLSm4ETX" name="第 1 页">
-    <mxGraphModel dx="1504" dy="-801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-152" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-13" y="2880" width="673" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-49.36" y="2610" width="457.86" height="60" as="geometry" />
+          <mxGeometry x="-651" y="2880" width="610" height="700" as="geometry" />
         </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-176" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;dashed=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-659" y="1280" width="500" height="630" as="geometry" />
@@ -593,27 +596,6 @@
         <mxCell id="WCuqPz3NQp58f8Igei0k-58" value="&lt;span style=&quot;font-size: 21.3333px&quot;&gt;拮抗菌BM400对&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;差异根系分泌物响应的&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;基因表达谱&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-593.8199999999999" y="1300.2299999999998" width="359.25" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="WCuqPz3NQp58f8Igei0k-181" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-411" y="1910" as="sourcePoint" />
-            <mxPoint x="320" y="1954" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-411" y="1930" />
-              <mxPoint x="320" y="1930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="o6z0fi3anvcR_nz3UvYC-198" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1047" y="1910" as="sourcePoint" />
-            <mxPoint x="320" y="1954" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1047" y="1930" />
-              <mxPoint x="320" y="1930" />
-              <mxPoint x="320" y="1954" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WCuqPz3NQp58f8Igei0k-89" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21.33px;&quot;&gt;&lt;span style=&quot;font-size: 21.33px;&quot;&gt;&lt;span style=&quot;font-size: 21.33px;&quot;&gt;利用差异性根系分泌物强化&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px;&quot;&gt;BM400&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px;&quot;&gt;抗辣椒疫病的途径及相关根际微生态机理&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 21.33px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" parent="1" vertex="1">
           <mxGeometry x="789.5" y="1300.23" width="510" height="55" as="geometry" />
         </mxCell>
@@ -681,208 +663,122 @@
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-3" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=21.333;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.4" y="3219.43" as="sourcePoint" />
-            <mxPoint x="255.4" y="3219.43" as="targetPoint" />
+            <mxPoint x="191.73999999999998" y="3165.93" as="sourcePoint" />
+            <mxPoint x="167.74" y="3165.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-4" value="" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="200.4" y="3149.1" width="55" height="140" as="geometry" />
+          <mxGeometry x="112.74000000000001" y="3092.2999999999997" width="55" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 21.33px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;共培养试验&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="227.4" y="3146.1" width="20" height="140" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 21.33px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;培养试验&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="139.74" y="3106.2999999999997" width="20" height="116.9" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 21.33px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;短期体外&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="203.59" y="3152.95" width="20" height="120" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-6" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;体外短期&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="115.93" y="3105.1499999999996" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-7" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=21.333;exitX=1.011;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1">
-          <mxGeometry x="536.4" y="3148.6" width="50" height="50" as="geometry">
-            <mxPoint x="529.0600000000003" y="3219.67" as="sourcePoint" />
-            <mxPoint x="552.4" y="3219.43" as="targetPoint" />
+          <mxGeometry x="448.73999999999995" y="3095.1" width="50" height="50" as="geometry">
+            <mxPoint x="441.40000000000026" y="3166.17" as="sourcePoint" />
+            <mxPoint x="464.73999999999995" y="3165.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320.77666666666653" y="3148.1" as="sourcePoint" />
-            <mxPoint x="-320.77666666666653" y="3172.1" as="targetPoint" />
+            <mxPoint x="-341.77666666666653" y="3148.1" as="sourcePoint" />
+            <mxPoint x="-341.77666666666653" y="3172.1" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-320.23999999999995" y="3148.1" />
+              <mxPoint x="-341.23999999999995" y="3148.1" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-319.8166666666668" y="3069.8799999999997" as="sourcePoint" />
-            <mxPoint x="-319.8166666666668" y="3093.8799999999997" as="targetPoint" />
+            <mxPoint x="-340.8166666666668" y="3069.8799999999997" as="sourcePoint" />
+            <mxPoint x="-340.8166666666668" y="3093.8799999999997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-319.2800000000001" y="3069.8799999999997" />
+              <mxPoint x="-340.2800000000001" y="3069.8799999999997" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-450.32000000000005" y="3780.51" width="191.38" height="130.25" as="geometry" />
-        </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-17" value="" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="552.4" y="3149.6" width="55" height="140" as="geometry" />
+          <mxGeometry x="464.23999999999995" y="3092.2999999999997" width="55" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="276.4" y="3156.1" width="256" height="128" as="geometry" />
+          <mxGeometry x="188.74" y="3109" width="256" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=21;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-497.2" y="3239" width="354.49" height="70" as="geometry" />
+          <mxGeometry x="-577" y="3172.9" width="465" height="67.4" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-21" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21.33px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 21.33px;&quot;&gt;BM400基因功能注释获得&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px;&quot;&gt;全基因组序列图谱&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px;&quot;&gt;&lt;br style=&quot;font-size: 21.33px;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
-          <mxGeometry x="-447.5" y="3025.11" width="254.14" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-22" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;Q-PCR&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-241.94" y="3809.3900000000003" width="56" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-29" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;感知&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;（双组份系统）&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-485.77" y="3246.5" width="155" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-30" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;响应&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;（趋化作用）&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-307.7" y="3246.5" width="155" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-32" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&lt;font style=&quot;font-size: 21.333px&quot;&gt;LFH-PCR&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-524.56" y="3814.76" width="56" height="65" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-21" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 21.33px&quot;&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;BM400基因功能注释并获得&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;全基因组序列图谱&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;&lt;br style=&quot;font-size: 21.33px&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
+          <mxGeometry x="-468.5" y="3025.11" width="254.14" height="53" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320.30666666666684" y="2999.7699999999995" as="sourcePoint" />
-            <mxPoint x="-320.30666666666684" y="3023.7699999999995" as="targetPoint" />
+            <mxPoint x="-341.30666666666684" y="2999.7699999999995" as="sourcePoint" />
+            <mxPoint x="-341.30666666666684" y="3023.7699999999995" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-319.77000000000004" y="2999.7699999999995" />
+              <mxPoint x="-340.77000000000004" y="2999.7699999999995" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-34" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-467.5699999999998" y="3847.39" as="sourcePoint" />
-            <mxPoint x="-450.3199999999998" y="3847.5199999999995" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-35" value="&lt;span style=&quot;font-size: 21.3333px&quot;&gt;Q-PCR验证&lt;/span&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;与浓度呈正相关/负相关以及特定浓度高表达的&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;关键功能基因&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-633.0600000000001" y="3265" width="581.06" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-35" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;与浓度呈正相关/负相关以及特定浓度高表达的&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;关键功能基因Q-PCR验证&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-500.32" y="3333.48" width="355.97" height="55.02" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-43" value="&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 21.333px&quot;&gt;BM400-&lt;i&gt;gfp&lt;/i&gt;&lt;br&gt;（电击转化）&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="49.13999999999999" y="2966.11" width="153.59" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-36" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;与浓度呈正相关&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-433.89" y="3787.01" width="160" height="30" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-44" value="&lt;font style=&quot;font-size: 21.333px&quot;&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;P. capsici&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot;&gt;-&lt;i&gt;rfp&lt;/i&gt;&lt;br&gt;（&lt;span style=&quot;font-size: 21.333px&quot;&gt;CaCl&lt;/span&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;-PEG&lt;/span&gt;）&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="412.53999999999996" y="2965.11" width="157.39" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-37" value="&lt;span style=&quot;font-size: 21.3333px&quot;&gt;与浓度呈&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;负相关&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-433.89" y="3827.76" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-38" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;特定浓度高表达&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-432.32" y="3867.38" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-40" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;基因工程&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="332.8" y="2960" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-41" value="&lt;font style=&quot;font-size: 21.333px&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;&quot;&gt;CaCl&lt;sub&gt;2&lt;/sub&gt;-PEG&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="464.8" y="2960" width="119" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-43" value="&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 21.333px&quot;&gt;BM400-&lt;br&gt;&lt;i&gt;gfp&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="3013.25" width="108" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-44" value="&lt;font style=&quot;font-size: 21.333px&quot;&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;P. capsici&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot;&gt;-&lt;i&gt;rfp&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="471.3" y="3014.25" width="108" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-46" value="&lt;font style=&quot;font-size: 21.33px&quot;&gt;激光共聚焦观察细菌/真菌不同生态位点定殖密度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="176.25000000000003" y="3303.48" width="460.5" height="30" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-46" value="&lt;font style=&quot;font-size: 21.33px&quot;&gt;激光共聚焦观察细菌/真菌&lt;span style=&quot;font-size: 21.33px&quot;&gt;在根系&lt;/span&gt;不同生态位点定殖密度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="52.74" y="3246" width="524" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-47" value="&lt;font style=&quot;font-size: 21.33px&quot;&gt;三个处理两个观察验证试验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="254.4" y="3089" width="279.91" height="40" as="geometry" />
+          <mxGeometry x="173.73000000000002" y="3044.5" width="279.91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-48" value="&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;单独接种BM400-GFP&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="298.78" y="3166.1" width="201.25" height="30" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-48" value="&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;单独接种BM400-&lt;i&gt;gfp&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="211.11999999999998" y="3112.6" width="201.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;单独接种&lt;/font&gt;&lt;/span&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;P. capsici&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot;&gt;-RFP&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="298.78" y="3201.1" width="203.62" height="30" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;单独接种&lt;/font&gt;&lt;/span&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;P. capsici&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot;&gt;-rfp&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="211.11999999999998" y="3150.6" width="203.62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;BM400-GFP+&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;P. capsici&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot;&gt;-RFP&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="282.4" y="3239.6" width="248.19" height="30" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;BM400-&lt;i&gt;gfp&lt;/i&gt;&lt;i&gt;&lt;span lang=&quot;EN-US&quot;&gt;P. capsici&lt;/span&gt;&lt;/i&gt;&lt;span lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;rfp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="194.73999999999998" y="3186.1" width="248.19" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-54" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.333px&quot;&gt;根系分泌物强化BM400&lt;/span&gt;&lt;b style=&quot;font-size: 21.333px ; text-indent: 23.6pt&quot;&gt;根系竞争疫霉侵入生态位点抵御疫病的分子机制&lt;/b&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="138.57" y="2869.5" width="480.75" height="53" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-54" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.333px&quot;&gt;根系分泌物强化BM400&lt;/span&gt;&lt;b style=&quot;font-size: 21.333px ; text-indent: 23.6pt&quot;&gt;竞争疫霉侵入生态位点抵御疫病的分子机制&lt;/b&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-5.75" y="2895" width="630" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392.5133333333336" y="2990" as="sourcePoint" />
-            <mxPoint x="392.5133333333336" y="3014" as="targetPoint" />
+            <mxPoint x="306.74333333333357" y="3019.11" as="sourcePoint" />
+            <mxPoint x="306.74333333333357" y="3043.11" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="393.05" y="2990" />
+              <mxPoint x="307.28" y="3019.11" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-57" value="" style="group;rotation=0;fontFamily=Helvetica;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="494.96" y="3552.23" width="412.79" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-58" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;entryX=0.49;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="HwPy62eIgg81wyNlHV0r-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-0.9024862699825315" y="-12" as="sourcePoint" />
-            <mxPoint x="227.42654003568117" y="20" as="targetPoint" />
-            <Array as="points">
-              <mxPoint />
-              <mxPoint x="227.42654003568066" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-59" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" edge="1" parent="HwPy62eIgg81wyNlHV0r-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="412.7900000000001" y="-12" as="sourcePoint" />
-            <mxPoint x="227.42654003568117" y="20" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="412.7900000000001" />
-              <mxPoint x="226.5168338755378" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-60" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=21.333;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452.8" y="2975" as="sourcePoint" />
-            <mxPoint x="464.8" y="2975" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-61" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=21.333;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HwPy62eIgg81wyNlHV0r-86">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="322" y="2975" as="sourcePoint" />
-            <mxPoint x="332.8" y="2975" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="332.8" y="2975" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-62" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.55" y="3039.25" as="sourcePoint" />
-            <mxPoint x="344.8" y="3039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392.56333333333345" y="3129" as="sourcePoint" />
-            <mxPoint x="392.56333333333345" y="3153" as="targetPoint" />
+            <mxPoint x="311.8933333333334" y="3084.5" as="sourcePoint" />
+            <mxPoint x="311.8933333333334" y="3108.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="393.09999999999997" y="3129" />
+              <mxPoint x="312.4299999999999" y="3084.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-64" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 21.33px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;盆栽实验&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="580.4" y="3164.6" width="30" height="110" as="geometry" />
+          <mxGeometry x="492.23999999999995" y="3107.2999999999997" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 21.33px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;人工气候室&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="554.4" y="3148.6" width="30" height="136" as="geometry" />
+          <mxGeometry x="466.23999999999995" y="3091.2999999999997" width="30" height="136" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="398.8133333333334" y="3281.1" as="sourcePoint" />
-            <mxPoint x="398.8133333333334" y="3305.1" as="targetPoint" />
+            <mxPoint x="314.4933333333334" y="3221.5" as="sourcePoint" />
+            <mxPoint x="314.4933333333334" y="3245.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399.35" y="3281.1" />
+              <mxPoint x="315.03000000000003" y="3221.5" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-67" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470.05" y="3038.8" as="sourcePoint" />
-            <mxPoint x="444.8" y="3039.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
@@ -894,134 +790,203 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-321.7066666666667" y="3309" as="sourcePoint" />
-            <mxPoint x="-321.7066666666667" y="3333" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-321.17" y="3309" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-83" value="揭示有机种植土壤下辣椒差异性根系分泌物对BM400功能基因调控的相关分子机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-568.6300000000001" y="3502.9999999999995" width="450.25" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-351.16666666666663" y="3760" as="sourcePoint" />
-            <mxPoint x="-350.94000000000017" y="3782.5" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-84" value="揭示关键根系分泌物组分（或组合）强化BM400根系生态位的竞争抑制辣椒疫霉侵入的作用和分子机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="17.75" y="3480" width="591.61" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-83" value="揭示有机种植土壤下辣椒差异性根系分泌物组分对BM400功能基因调控的相关分子机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-544.46" y="3420.4799999999996" width="450.25" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-84" value="揭示关键根系分泌物组分（或组合）强化BM400根系生态位的定殖和诱导抗生物质抑制辣椒疫霉侵入的作用和分子化学机制" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="419.95" y="3580.23" width="591.61" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="274.81333333333316" y="2988.4999999999995" as="sourcePoint" />
-            <mxPoint x="267.85" y="3013.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="275.6" y="2989" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-86" value="&lt;span style=&quot;font-size: 21.3333px&quot;&gt;电击转化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="223.59" y="2960" width="94.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-87" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-241.69000000000017" y="3841.6800000000003" as="sourcePoint" />
-            <mxPoint x="-258.94000000000017" y="3841.55" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-336.1566666666665" y="3924.92" as="sourcePoint" />
-            <mxPoint x="-335.93000000000006" y="3947.42" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-89" value="&lt;span style=&quot;font-size: 21.333px ; text-indent: -24px&quot;&gt;采用Illumina对&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;BM400转录组测序&lt;/span&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;（不同终浓度差异根系分泌物与BM400共培养）&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-548.68" y="3095.23" width="458.68" height="53" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-89" value="&lt;span style=&quot;font-size: 21.333px ; text-indent: -24px&quot;&gt;采用Illumina对&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;BM400转录组测序&lt;/span&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;（不同终浓度总差异根系分泌物与BM400共培养）&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-581.04" y="3095.6" width="478.68" height="53" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-90" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 21.33px&quot;&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;SEED&lt;/span&gt;&lt;br style=&quot;font-size: 21.33px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 21.33px&quot;&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;NCBI&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
-          <mxGeometry x="-549.31" y="3020.5" width="74" height="58" as="geometry" />
+          <mxGeometry x="-570.31" y="3020.5" width="74" height="58" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-91" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21.33px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px; font-family: &amp;quot;times new roman&amp;quot;, serif;&quot;&gt;Diamond&lt;/span&gt;&lt;br style=&quot;font-size: 21.33px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21.33px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px; font-family: &amp;quot;times new roman&amp;quot;, serif;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px;&quot;&gt;HMMER&lt;/span&gt;&lt;br style=&quot;font-size: 21.33px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 21.33px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px; font-family: &amp;quot;times new roman&amp;quot;, serif;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px; font-family: &amp;quot;times new roman&amp;quot;, serif;&quot;&gt;COG&lt;/span&gt;&lt;br style=&quot;font-size: 21.33px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
-          <mxGeometry x="-164.31" y="3010" width="99" height="75" as="geometry" />
+          <mxGeometry x="-185.31" y="3010" width="99" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=21.33;" edge="1" parent="1" source="HwPy62eIgg81wyNlHV0r-93" target="HwPy62eIgg81wyNlHV0r-99">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-93" value="&lt;span style=&quot;font-size: 21.3333px&quot;&gt;拮抗菌BM400对&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;差异根系分泌物响应的&lt;/span&gt;&lt;span style=&quot;font-size: 16pt&quot;&gt;基因表达谱&lt;/span&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-565.49" y="2890" width="488.13" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-94" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-312" y="3650" as="sourcePoint" />
-            <mxPoint x="419" y="3694" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-312" y="3670" />
-              <mxPoint x="419" y="3670" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-586.49" y="2895" width="488.13" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-99" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left: 18pt ; text-indent: -18pt ; line-height: 22pt ; font-size: 21.333px&quot;&gt;&lt;a name=&quot;_Hlk65780434&quot;&gt;&lt;span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-stretch: normal ; line-height: normal&quot;&gt;&amp;nbsp;采用&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span lang=&quot;EN-US&quot;&gt;PacBio结合&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Illumina&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;高通量对BM400基因组测序&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-578.42" y="2960" width="514" height="40" as="geometry" />
+          <mxGeometry x="-599.42" y="2960" width="514" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-106" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-474.75000000000006" y="3049.2599999999998" as="sourcePoint" />
-            <mxPoint x="-449.50000000000006" y="3049.0099999999998" as="targetPoint" />
+            <mxPoint x="-495.75000000000006" y="3049.2599999999998" as="sourcePoint" />
+            <mxPoint x="-470.50000000000006" y="3049.0099999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-107" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-167.11000000000007" y="3047.2599999999998" as="sourcePoint" />
-            <mxPoint x="-192.36000000000007" y="3047.5099999999998" as="targetPoint" />
+            <mxPoint x="-188.11000000000007" y="3047.2599999999998" as="sourcePoint" />
+            <mxPoint x="-213.36000000000007" y="3047.5099999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-321.81666666666683" y="2935.9999999999995" as="sourcePoint" />
-            <mxPoint x="-321.81666666666683" y="2959.9999999999995" as="targetPoint" />
+            <mxPoint x="-342.81666666666683" y="2935.9999999999995" as="sourcePoint" />
+            <mxPoint x="-342.81666666666683" y="2959.9999999999995" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-321.28000000000003" y="2935.9999999999995" />
+              <mxPoint x="-342.28000000000003" y="2935.9999999999995" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-113" value="&lt;span style=&quot;font-size: 21.33px;&quot;&gt;差异基因的功能富集分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
-          <mxGeometry x="-458.55000000000007" y="3172.48" width="276.43" height="40" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-113" value="&lt;font style=&quot;font-size: 21.33px&quot;&gt;差异基因表达&lt;br&gt;（&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;dgeR&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt&quot;&gt;、&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;DESeq2&lt;/span&gt;）&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
+          <mxGeometry x="-566.13" y="3180.1" width="209.94" height="53" as="geometry" />
         </mxCell>
         <mxCell id="HwPy62eIgg81wyNlHV0r-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320.6766666666666" y="3212.48" as="sourcePoint" />
-            <mxPoint x="-320.6766666666666" y="3236.48" as="targetPoint" />
+            <mxPoint x="-342.8166666666666" y="3239.6" as="sourcePoint" />
+            <mxPoint x="-342.8166666666666" y="3263.6" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-320.13999999999993" y="3212.48" />
+              <mxPoint x="-342.2799999999999" y="3239.6" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-116" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 21.33px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;+根系分泌物组分（组合）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21.333;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="640" y="3430" width="270" height="40" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-120" value="&lt;font style=&quot;font-size: 21.33px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;LFH-PCR&lt;/span&gt;法构建BM400增强/缺失突变体菌株&lt;br&gt;（感知和响应相关的功能基因突变）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
+          <mxGeometry x="-565.48" y="3343" width="441.23" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+        <mxCell id="HwPy62eIgg81wyNlHV0r-125" value="体外添加实验验证对差异根系分泌物的响应能力&#xa;（趋化性和游动性试验）" style="whiteSpace=wrap;rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
+          <mxGeometry x="-584.8600000000001" y="3419.9999999999995" width="480" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-131" value="&lt;font style=&quot;font-size: 21.33px&quot;&gt;基因功能富集分析&lt;br&gt;（&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Goatools&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt&quot;&gt;、&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;KOBAS 2.0&lt;/span&gt;）&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;fontSize=21.33;" vertex="1" parent="1">
+          <mxGeometry x="-335.19" y="3180.1" width="209.94" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="524.1833333333335" y="2990" as="sourcePoint" />
-            <mxPoint x="524.1833333333335" y="3014" as="targetPoint" />
+            <mxPoint x="-344.8966666666666" y="3318" as="sourcePoint" />
+            <mxPoint x="-344.8966666666666" y="3342" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="524.72" y="2990" />
+              <mxPoint x="-344.3599999999999" y="3318" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+        <mxCell id="HwPy62eIgg81wyNlHV0r-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400.88333333333304" y="3063.2499999999995" as="sourcePoint" />
-            <mxPoint x="393.9199999999999" y="3088" as="targetPoint" />
+            <mxPoint x="-343.56666666666655" y="3398" as="sourcePoint" />
+            <mxPoint x="-343.56666666666655" y="3422" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="401.67" y="3063.75" />
+              <mxPoint x="-343.0299999999999" y="3398" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HwPy62eIgg81wyNlHV0r-45" value="&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 21.333px&quot;&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;构建&lt;br&gt;&lt;/span&gt;荧光菌株&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="343.8" y="3014.25" width="100" height="50" as="geometry" />
+        <mxCell id="HwPy62eIgg81wyNlHV0r-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-343.84666666666635" y="3479" as="sourcePoint" />
+            <mxPoint x="-343.84666666666635" y="3503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-343.3099999999999" y="3479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315.55333333333357" y="3285" as="sourcePoint" />
+            <mxPoint x="315.55333333333357" y="3309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="316.09000000000003" y="3285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=21.33;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.09172413793107" y="2940" as="sourcePoint" />
+            <mxPoint x="309.16068965517223" y="2965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-147" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="227.93999999999988" y="2992.37" as="sourcePoint" />
+            <mxPoint x="202.68999999999988" y="2992.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-148" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387.1199999999998" y="2992.25" as="sourcePoint" />
+            <mxPoint x="412.3699999999998" y="2992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-146" value="&lt;font style=&quot;font-size: 21.333px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;p style=&quot;font-size: 12px ; margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 21.3333px&quot;&gt;基因工程&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;构建&lt;/span&gt;&lt;span style=&quot;font-size: 21.333px&quot;&gt;荧光菌株&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="227.94" y="2966.11" width="161.15" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-137" value="&lt;span style=&quot;font-size: 21.33px&quot;&gt;有/无疫霉菌存在体外短期共培养实验&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;观察差异根系分泌物强化BM400-&lt;/span&gt;&lt;i style=&quot;font-size: 21.33px&quot;&gt;gfp&lt;/i&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;根系疫霉侵入位点定殖效率&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="6.25" y="3310.58" width="618" height="54.42" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-149" value="&lt;span style=&quot;font-size: 21.33px&quot;&gt;人工气候室盆栽实验&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;验证外源添加关键根系分泌物对强化&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 21.33px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;BM400&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;根际定殖和抑制辣椒疫病的作用&lt;/span&gt;&lt;span style=&quot;font-size: 21.33px&quot;&gt;&lt;br style=&quot;font-size: 21.33px&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=2;fontFamily=Helvetica;fontStyle=1;verticalAlign=middle;fontSize=21.33;" vertex="1" parent="1">
+          <mxGeometry x="8.62" y="3390" width="612.25" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315.0733333333337" y="3365" as="sourcePoint" />
+            <mxPoint x="315.0733333333337" y="3389" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315.61" y="3365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315.0733333333337" y="3454" as="sourcePoint" />
+            <mxPoint x="315.0733333333337" y="3478" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315.61" y="3454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-153" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-411" y="1930" width="1458" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="WCuqPz3NQp58f8Igei0k-181" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" parent="HwPy62eIgg81wyNlHV0r-153" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="-20" as="sourcePoint" />
+            <mxPoint x="731" y="24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint />
+              <mxPoint x="731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o6z0fi3anvcR_nz3UvYC-198" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" parent="HwPy62eIgg81wyNlHV0r-153" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1458" y="-20" as="sourcePoint" />
+            <mxPoint x="731" y="24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1458" />
+              <mxPoint x="731" />
+              <mxPoint x="731" y="24" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-155" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-353.19" y="3600" width="673.19" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-156" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" edge="1" parent="HwPy62eIgg81wyNlHV0r-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="-20" as="sourcePoint" />
+            <mxPoint x="337.5184430727024" y="24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint />
+              <mxPoint x="337.5184430727024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-157" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontStyle=1" edge="1" parent="HwPy62eIgg81wyNlHV0r-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673.19" y="-20" as="sourcePoint" />
+            <mxPoint x="337.5184430727024" y="24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="673.19" />
+              <mxPoint x="337.5184430727024" />
+              <mxPoint x="337.5184430727024" y="24" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPy62eIgg81wyNlHV0r-158" value="系统解析有机种植体系中辣椒根系分泌物招募拮抗菌BM400抑制辣椒疫病的机制及强化途径和机理" style="rounded=1;fontFamily=Helvetica;fontStyle=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-522.3199999999999" y="3626" width="1014.56" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
